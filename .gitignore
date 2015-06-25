@@ -5,6 +5,4 @@
 *.drf
 *.pid
 *.lk
-/**/*.crf
-/**/GemFire_ezhu
 /**/work-dir/**
