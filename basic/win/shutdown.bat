@@ -1,1 +1,0 @@
-gfsh -e "connect" -e "shutdown --include-locators=true" \set \Y
