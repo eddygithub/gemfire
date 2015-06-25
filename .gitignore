@@ -1,2 +1,8 @@
 *.log
-/**/work-dir/**
+*.dat
+*.if
+*.crf
+*.drf
+*.pid
+*.lk
+/**/GemFire_ezhu/**
